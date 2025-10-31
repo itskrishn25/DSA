@@ -3,6 +3,7 @@ import java.util.Scanner;
 class adjacencyMatrix{
     public static void main(String[] args){
         // User Input dimenstions of graph
+        // Space used O(N*N)
 
         Scanner obj = new Scanner(System.in);
 
